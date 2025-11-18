@@ -1,0 +1,6 @@
+{
+  "Name": "copy and rename files",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
